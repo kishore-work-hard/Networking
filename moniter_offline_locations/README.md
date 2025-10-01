@@ -1,6 +1,4 @@
-Here’s a well-structured **`README.md`** for your project 👇
 
----
 
 # Simple Network Monitor
 
