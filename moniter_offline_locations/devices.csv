@@ -1,0 +1,5 @@
+location,device
+location a,192.168.8.1
+location b,192.168.20.1
+america,192.168.21.1
+china,192.168.22.1
